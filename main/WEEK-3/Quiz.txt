@@ -1,0 +1,45 @@
+***********************************************
+Chapter :---  Kubeflow Pipelines on AI Platform
+***********************************************
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Question 1.
+Kubeflow tasks are organized into a dependency graph where each node represents:
+
+
+a) a task to be performed                 <------------------------- ( RIGHT ANSWER )
+
+b) a Docker container to be executed      <------------------------- ( RIGHT ANSWER )
+
+c) a Dataflow job
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Question 2.
+The simplest way to launch a training task on AI platform from a Kubeflow task is:
+
+
+a) To package your AI platform training script into a Docker container
+
+b) Use the AI platform training pre-built Kubeflow component            <------------------------- ( RIGHT ANSWER )
+
+c) Launch the training job from the Kubeflow UI
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Question 3.
+In a lightweight Python component, the run parameters are taken from:
+
+
+a) The variables from the Python class we are wrapping into a Kubeflow task
+
+b) The arguments of the Python function we are wrapping into a Kubeflow task             <------------------------- ( RIGHT ANSWER )
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+~TSG405, 2021
