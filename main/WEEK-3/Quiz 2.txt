@@ -1,0 +1,37 @@
+******************************************
+Chapter :--  CI/CD for a Kubeflow Pipeline
+******************************************
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Question 1.
+Which of the following would require a Custom Cloud Builder:
+
+
+a) Deploying an application to a Google Kubernetes Engine cluster
+
+b) Pushing a Docker container to a registry
+
+c) Copying a local file to Google Cloud Storage with gsutil
+
+d) Downloading source code or packages from external locations              <------------------------- ( RIGHT ANSWER )
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Question 2.
+Which field in a configuration file allows the use of persistence (asset sharing):
+
+
+a) name
+
+b) dir                <------------------------- ( RIGHT ANSWER )
+
+c) env
+
+d) args
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+~TSG405, 2021
