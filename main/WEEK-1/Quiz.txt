@@ -1,0 +1,63 @@
+******************************************
+Chapter :---  Why and When to Employ MLOps 
+******************************************
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Question 1.
+In addition to CI/CD practiced by DevOps teams, MLOps introduces:
+
+
+a) Continuous classification
+
+b) Continuous regression
+
+c) Continuous training         <------------------------- ( RIGHT ANSWER )
+
+d) All of the above
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Question 2.
+MLOps, besides testing and validating code and components, also tests and validates data, data schemas, and models.
+
+
+a) True                        <------------------------- ( RIGHT ANSWER )
+
+b) False
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Question 3.
+In what order are the following phases executed in a machine learning project?
+
+
+* I - Selection of ML algorithm
+
+* II - Data Exploration
+
+* III - Definition of the business use case
+
+* IV - Model monitoring
+
+* V - Model operationalization
+
+* VI - Model Development
+
+
+
+a) I, II, III, IV, V, VI
+
+b) III, II, I, VI, V, IV        <------------------------- ( RIGHT ANSWER )
+
+c) II, III, I, VI, IV, V  
+
+d) II, I, III, VI, IV, V 
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+~TSG405, 2021
