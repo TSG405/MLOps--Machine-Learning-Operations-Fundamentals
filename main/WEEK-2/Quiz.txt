@@ -1,0 +1,47 @@
+******************************************
+Chapter :---         AI Platform Pipelines 
+******************************************
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Question 1.
+One major benefit of the Lineage tracking feature of AI Platform pipelines is:
+
+
+a) To track artifacts for an ML pipeline
+
+b) To provide history and versions of your ML model               <------------------------- ( RIGHT ANSWER )
+
+c) To share of ML pipeline within your organization
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Question 2.
+The AI Hub allows you to (select all that apply):
+
+
+a) Search and discover various ML pipelines                       <------------------------- ( RIGHT ANSWER )           
+
+b) Publish your pipelines and share within your organization      <------------------------- ( RIGHT ANSWER )
+
+c) Network with your peers and share updates on your work
+
+d) Experiment and adjust out-of-the-box pipelines to custom use cases via pipelines UI.        <------------------------- ( RIGHT ANSWER )
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Question 3.
+Which of the following services can be used out-of-the box to operationalize xgboost model ?
+
+
+a) Kubeflow                 <------------------------- ( RIGHT ANSWER )           
+
+b) TFX
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+~TSG405, 2021
