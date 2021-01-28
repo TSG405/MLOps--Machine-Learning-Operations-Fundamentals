@@ -13,7 +13,7 @@
 | Asia Pacific  | Mumbai, India                      | `asia-south1`             | `asia-south1-a` `asia-south1-b` `asia-south1-c`                                      | 2017     |
 | Asia Pacific  | Jurong West, Singapore             | `asia-southeast1`         | `asia-southeast1-a` `asia-southeast1-b` `asia-southeast1-c`                          | 2017     |
 | Asia Pacific  | Jakarta, Indonesia                 | `asia-southeast2`         | `asia-southeast2-a` `asia-southeast2-b` `asia-southeast2-c` `asia-southeast2-d`      | 2017     |
-| Asia Pacific  | Sydney, Australia                  | `australia-southeast1`    | `australia-southeast1-a` australia-southeast1-b` australia-southeast1-c`             | 2017     |
+| Asia Pacific  | Sydney, Australia                  | `australia-southeast1`    | `australia-southeast1-a` `australia-southeast1-b` `australia-southeast1-c`           | 2017     |
 | EU            | Hamina, Finland                    | `europe-north1`           | `europe-north1-a` `europe-north1-b` `europe-north1-c`                                | 2018     |
 | EU            | St. Ghislain, Belgium              | `europe-west1`            | `europe-west1-b` `europe-west1-c` `europe-west1-d`                                   | 2015     |
 | EU            | London, England, UK                | `europe-west2`            | `europe-west2-a` `europe-west2-b` `europe-west2-c`                                   | 2017     |
